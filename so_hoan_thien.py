@@ -1,4 +1,4 @@
-# in ra các số hoàn thiện từ 1 đến n
+
 # hàm kiểm tra 1 số có phải số hoàn thiện
 def check_perfect_number(n):
     s = 0
